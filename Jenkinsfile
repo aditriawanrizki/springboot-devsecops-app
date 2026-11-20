@@ -1,4 +1,4 @@
-@Library('springboot-shared-library@v1.0.0') _
+@Library('springboot-shared-library@v1.0.1') _
 
 springBootPipeline(
     appName: 'springboot-devsecops-app',
